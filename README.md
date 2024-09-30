@@ -1,1 +1,1 @@
-# CNN_CIFAR-10
+## Image Classification Using CIFAR-10 Dataset
